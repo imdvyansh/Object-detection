@@ -60,3 +60,8 @@ Use the below commond to execute the python file:-
 ```sh
 python main.py --prototxt MobileNetSSD.txt --model MobileNetSSD_deploy.caffemodel
 ```
+opencv==4.11.0
+imutils==0.5.4
+numpy==2.2.2
+python==3.12.7
+pip==24.3.1
